@@ -35,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmarDalvi&show_icons=true&theme=dark&locale=en" alt="AmarDalvi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmarDalvi&theme=dark" alt="AmarDalvi" /></p>
-<a href="https://github.com/AmarDalvi/github-readme-activity-graph"><img alt="Amar Dalvi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmarDalvi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
