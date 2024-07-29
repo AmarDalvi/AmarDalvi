@@ -37,8 +37,4 @@
 
 <p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AmarDalvi&show_icons=true&theme=tokyonight&locale=en" alt="AmarDalvi" /></p>
 
-![snake gif](https://github.com/AmarDalvi/AmarDalvi/blob/output/github-snake.svg#gh-light-mode-only)
-![snake gif](https://github.com/AmarDalvi/AmarDalvi/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmarDalvi&theme=dark" alt="AmarDalvi" /></p>
