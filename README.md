@@ -6,6 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmarDalvi&label=Profile%20views&color=0e75b6&style=flat-square" alt="AmarDalvi" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmarDalvi&theme=tokyonight&row=1&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) 
+
+
 <h3>About me✍ </h3>
 
 - 🌱 I’m currently learning **DSA, SpringBoot and Backend Technologies**
@@ -32,6 +35,10 @@
 
   <a href="https://github.com/AmarDalvi/github-readme-stats"><img alt="Amar Dalvi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarDalvi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmarDalvi&show_icons=true&theme=dark&locale=en" alt="AmarDalvi" /></p>
+<p>&nbsp;<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=AmarDalvi&show_icons=true&theme=tokyonight&locale=en" alt="AmarDalvi" /></p>
+
+![snake gif](https://github.com/AmarDalvi/AmarDalvi/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/AmarDalvi/AmarDalvi/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmarDalvi&theme=dark" alt="AmarDalvi" /></p>
